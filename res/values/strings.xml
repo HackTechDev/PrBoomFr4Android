@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrBoom Pour Android</string>
+    <string name="choose_wad">Choisir WAD</string>
+    <string name="extra_args">Arguments</string>
+    <string name="engine_options">Options</string>
+    <string name="fullscreen">Plein Ecran</string>
+    <string name="enable_sound">Son</string>
+    <string name="touch_controls">Controles</string>
+    <string name="install_wads">Installer WADs</string>
+    <string name="cleanup">Nettoyage</string>
+    <string name="how_to">Aide</string>
+    <string name="quit">Quitter</string>
+    <string name="play">JOUER!</string>
+    <string name="run">Lancer</string>
+    <string name="install_sounds">Installer Sons</string>
+    <string name="tilt_controls">Utiliser le &quot;Gyro&quot;</string>
+</resources>

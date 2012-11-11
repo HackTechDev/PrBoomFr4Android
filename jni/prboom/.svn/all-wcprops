@@ -1,0 +1,1049 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/49/trunk/jni/prboom
+END
+p_floor.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/p_floor.c
+END
+r_drawspan.inl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/43/trunk/jni/prboom/r_drawspan.inl
+END
+i_network.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/49/trunk/jni/prboom/i_network.c
+END
+i_network.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/43/trunk/jni/prboom/i_network.h
+END
+r_fps.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/prboom/r_fps.c
+END
+doomdef.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/doomdef.c
+END
+i_video.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/i_video.c
+END
+r_fps.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/prboom/r_fps.h
+END
+i_video_jni.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/43/trunk/jni/prboom/i_video_jni.c
+END
+pcm2wav.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/47/trunk/jni/prboom/pcm2wav.c
+END
+g_game.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/g_game.c
+END
+r_patch.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/r_patch.c
+END
+d_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/48/trunk/jni/prboom/d_client.c
+END
+doomdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/doomdef.h
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/43/trunk/jni/prboom/configure.ac
+END
+i_video.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/i_video.h
+END
+pcm2wav.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/47/trunk/jni/prboom/pcm2wav.h
+END
+g_game.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/g_game.h
+END
+r_patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/r_patch.h
+END
+p_genlin.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/p_genlin.c
+END
+v_video.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/v_video.c
+END
+r_drawcolumn.inl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/43/trunk/jni/prboom/r_drawcolumn.inl
+END
+p_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/p_user.c
+END
+v_video.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/v_video.h
+END
+p_user.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/p_user.h
+END
+r_drawcolpipeline.inl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/jni/prboom/r_drawcolpipeline.inl
+END
+p_pspr.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/p_pspr.c
+END
+z_zone.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/z_zone.c
+END
+p_pspr.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/p_pspr.h
+END
+z_zone.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/z_zone.h
+END
+d_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/d_server.c
+END
+m_argv.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/m_argv.c
+END
+sounds.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/sounds.c
+END
+w_mmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/w_mmap.c
+END
+r_drawflush.inl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/43/trunk/jni/prboom/r_drawflush.inl
+END
+m_argv.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/m_argv.h
+END
+sounds.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/sounds.h
+END
+r_sky.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/prboom/r_sky.c
+END
+m_swap.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/m_swap.h
+END
+i_system.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/i_system.c
+END
+r_sky.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/prboom/r_sky.h
+END
+st_stuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/st_stuff.c
+END
+dstrings.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/dstrings.c
+END
+p_inter.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/p_inter.c
+END
+i_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/i_system.h
+END
+st_stuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/st_stuff.h
+END
+dstrings.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/dstrings.h
+END
+f_finale.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/f_finale.c
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/config.log
+END
+r_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/r_main.c
+END
+p_inter.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/p_inter.h
+END
+m_bbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/m_bbox.c
+END
+f_finale.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/f_finale.h
+END
+r_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/r_main.h
+END
+m_bbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/m_bbox.h
+END
+m_fixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/m_fixed.h
+END
+p_switch.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/p_switch.c
+END
+w_memcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/43/trunk/jni/prboom/w_memcache.c
+END
+doomstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/doomstat.c
+END
+m_random.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/m_random.c
+END
+i_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/i_main.c
+END
+tic
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/43/trunk/jni/prboom/tic
+END
+doomstat.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/doomstat.h
+END
+m_cheat.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/m_cheat.c
+END
+i_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/i_main.h
+END
+m_random.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/m_random.h
+END
+z_bmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/43/trunk/jni/prboom/z_bmalloc.c
+END
+doomtype.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/doomtype.h
+END
+r_bsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/prboom/r_bsp.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/47/trunk/jni/prboom/Android.mk
+END
+m_cheat.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/m_cheat.h
+END
+r_demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/r_demo.c
+END
+r_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/r_state.h
+END
+gl_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/gl_main.c
+END
+protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/protocol.h
+END
+z_bmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/43/trunk/jni/prboom/z_bmalloc.h
+END
+f_wipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/f_wipe.c
+END
+r_demo.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/r_demo.h
+END
+r_bsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/prboom/r_bsp.h
+END
+r_things.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/r_things.c
+END
+i_joy.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/prboom/i_joy.h
+END
+r_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/r_draw.c
+END
+f_wipe.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/f_wipe.h
+END
+lprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/lprintf.c
+END
+gl_texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/43/trunk/jni/prboom/gl_texture.c
+END
+r_things.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/r_things.h
+END
+r_draw.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/r_draw.h
+END
+lprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/lprintf.h
+END
+d_englsh.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/d_englsh.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/43/trunk/jni/prboom/Makefile.am
+END
+r_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/r_data.c
+END
+Makefile.orig
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/43/trunk/jni/prboom/Makefile.orig
+END
+p_enemy.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/p_enemy.c
+END
+r_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/r_data.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/43/trunk/jni/prboom/Makefile.in
+END
+p_enemy.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/p_enemy.h
+END
+d_deh.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/prboom/d_deh.c
+END
+d_deh.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/prboom/d_deh.h
+END
+p_lights.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/p_lights.c
+END
+p_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/p_spec.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/config.h
+END
+d_ticcmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/d_ticcmd.h
+END
+p_spec.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/p_spec.h
+END
+m_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/m_menu.c
+END
+p_ceilng.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/p_ceilng.c
+END
+r_segs.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/r_segs.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/43/trunk/jni/prboom/md5.c
+END
+m_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/m_menu.h
+END
+r_segs.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/r_segs.h
+END
+d_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/d_event.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/43/trunk/jni/prboom/md5.h
+END
+am_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/am_map.c
+END
+info.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/43/trunk/jni/prboom/info.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/Makefile
+END
+p_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/prboom/p_map.c
+END
+d_net.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/prboom/d_net.h
+END
+am_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/am_map.h
+END
+info.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/43/trunk/jni/prboom/info.h
+END
+p_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/prboom/p_map.h
+END
+p_plats.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/p_plats.c
+END
+d_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/d_player.h
+END
+st_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/st_lib.c
+END
+p_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/p_setup.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/43/trunk/jni/prboom/config.h.in
+END
+p_checksum.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/43/trunk/jni/prboom/p_checksum.c
+END
+st_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/st_lib.h
+END
+p_setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/p_setup.h
+END
+d_items.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/d_items.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/version.c
+END
+p_checksum.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/43/trunk/jni/prboom/p_checksum.h
+END
+wi_stuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/wi_stuff.c
+END
+d_items.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/d_items.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/version.h
+END
+wi_stuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/wi_stuff.h
+END
+p_sight.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/p_sight.c
+END
+doomdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/doomdata.h
+END
+i_sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/47/trunk/jni/prboom/i_sound.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/configure
+END
+hu_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/48/trunk/jni/prboom/hu_lib.c
+END
+p_doors.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/p_doors.c
+END
+i_sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/i_sound.h
+END
+r_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/r_filter.c
+END
+hu_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/hu_lib.h
+END
+r_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/r_defs.h
+END
+s_sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/s_sound.c
+END
+r_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/r_filter.h
+END
+s_sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/s_sound.h
+END
+r_plane.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/r_plane.c
+END
+p_maputl.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/p_maputl.c
+END
+hu_stuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/hu_stuff.c
+END
+p_saveg.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/p_saveg.c
+END
+r_plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/r_plane.h
+END
+d_think.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/d_think.h
+END
+p_maputl.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/p_maputl.h
+END
+hu_stuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/hu_stuff.h
+END
+p_saveg.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/jni/prboom/p_saveg.h
+END
+mmus2mid.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/mmus2mid.c
+END
+jni_doom.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/49/trunk/jni/prboom/jni_doom.c
+END
+w_wad.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/prboom/w_wad.c
+END
+mmus2mid.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/mmus2mid.h
+END
+p_mobj.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/p_mobj.c
+END
+w_wad.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/prboom/w_wad.h
+END
+m_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/m_misc.c
+END
+p_tick.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/p_tick.c
+END
+tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/tables.c
+END
+p_mobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/p_mobj.h
+END
+gl_struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/43/trunk/jni/prboom/gl_struct.h
+END
+p_telept.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/prboom/p_telept.c
+END
+m_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/m_misc.h
+END
+p_tick.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/p_tick.h
+END
+tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/tables.h
+END
+gl_intern.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/43/trunk/jni/prboom/gl_intern.h
+END
+d_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/d_main.c
+END
+d_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/jni/prboom/d_main.h
+END

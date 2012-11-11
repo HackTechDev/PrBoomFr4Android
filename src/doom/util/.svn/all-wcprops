@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/48/trunk/src/doom/util
+END
+DoomTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/42/trunk/src/doom/util/DoomTools.java
+END
+WebDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/42/trunk/src/doom/util/WebDownload.java
+END
+GameFileDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/42/trunk/src/doom/util/GameFileDownloader.java
+END
+Natives.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/48/trunk/src/doom/util/Natives.java
+END
+DialogTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/42/trunk/src/doom/util/DialogTool.java
+END

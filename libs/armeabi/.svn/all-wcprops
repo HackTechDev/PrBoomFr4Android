@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/51/trunk/libs/armeabi
+END
+gdbserver
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/51/trunk/libs/armeabi/gdbserver
+END
+libprboom_jni.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/49/trunk/libs/armeabi/libprboom_jni.so
+END
+gdb.setup
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/50/trunk/libs/armeabi/gdb.setup
+END
